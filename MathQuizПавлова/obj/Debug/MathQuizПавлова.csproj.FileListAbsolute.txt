@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\MathQuizПавлова\bin\Debug\MathQuizПавлова.exe.config
+C:\Users\student\Desktop\MathQuizПавлова\bin\Debug\MathQuizПавлова.exe
+C:\Users\student\Desktop\MathQuizПавлова\bin\Debug\MathQuizПавлова.pdb
+C:\Users\student\Desktop\MathQuizПавлова\obj\Debug\MathQuizПавлова.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\MathQuizПавлова\obj\Debug\MathQuizПавлова.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\MathQuizПавлова\obj\Debug\MathQuizПавлова.Form1.resources
+C:\Users\student\Desktop\MathQuizПавлова\obj\Debug\MathQuizПавлова.Properties.Resources.resources
+C:\Users\student\Desktop\MathQuizПавлова\obj\Debug\MathQuizПавлова.csproj.GenerateResource.cache
+C:\Users\student\Desktop\MathQuizПавлова\obj\Debug\MathQuizПавлова.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\MathQuizПавлова\obj\Debug\MathQuizПавлова.exe
+C:\Users\student\Desktop\MathQuizПавлова\obj\Debug\MathQuizПавлова.pdb
