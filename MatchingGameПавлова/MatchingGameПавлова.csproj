@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{478A14DE-5C7A-479A-807A-3B8069BAD52A}</ProjectGuid>
+    <ProjectGuid>{3A6B207E-67FB-42BC-8523-19560BEA7F17}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>MatchingGameПавлова</RootNamespace>
-    <AssemblyName>zz</AssemblyName>
+    <AssemblyName>MatchingGameПавлова</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,7 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>

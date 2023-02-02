@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("MatchingGameПавлова")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("RANEPA")]
 [assembly: AssemblyProduct("MatchingGameПавлова")]
-[assembly: AssemblyCopyright("Copyright ©  2023")]
+[assembly: AssemblyCopyright("Copyright © RANEPA 2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("478a14de-5c7a-479a-807a-3b8069bad52a")]
+[assembly: Guid("3a6b207e-67fb-42bc-8523-19560bea7f17")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //
