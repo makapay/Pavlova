@@ -101,5 +101,10 @@ namespace PictureViewerПавловаМаша
             // Close the form.
             this.Close();
         }
+
+        private void menuStrip2_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
     }
 }
