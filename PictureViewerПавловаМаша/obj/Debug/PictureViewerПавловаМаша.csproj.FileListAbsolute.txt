@@ -9,3 +9,14 @@ C:\Users\1\source\repos\PictureViewerПавловаМаша\PictureViewerПав�
 C:\Users\1\source\repos\PictureViewerПавловаМаша\PictureViewerПавловаМаша\obj\Debug\PictureViewerПавловаМаша.csproj.CoreCompileInputs.cache
 C:\Users\1\source\repos\PictureViewerПавловаМаша\PictureViewerПавловаМаша\obj\Debug\PictureViewerПавловаМаша.exe
 C:\Users\1\source\repos\PictureViewerПавловаМаша\PictureViewerПавловаМаша\obj\Debug\PictureViewerПавловаМаша.pdb
+C:\Users\student\Downloads\Pavlova-main (4)\Pavlova-main\PictureViewerПавловаМаша\bin\Debug\PictureViewerПавловаМаша.exe.config
+C:\Users\student\Downloads\Pavlova-main (4)\Pavlova-main\PictureViewerПавловаМаша\bin\Debug\PictureViewerПавловаМаша.exe
+C:\Users\student\Downloads\Pavlova-main (4)\Pavlova-main\PictureViewerПавловаМаша\bin\Debug\PictureViewerПавловаМаша.pdb
+C:\Users\student\Downloads\Pavlova-main (4)\Pavlova-main\PictureViewerПавловаМаша\obj\Debug\PictureViewerПавловаМаша.csproj.AssemblyReference.cache
+C:\Users\student\Downloads\Pavlova-main (4)\Pavlova-main\PictureViewerПавловаМаша\obj\Debug\PictureViewerПавловаМаша.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Downloads\Pavlova-main (4)\Pavlova-main\PictureViewerПавловаМаша\obj\Debug\PictureViewerПавловаМаша.Form1.resources
+C:\Users\student\Downloads\Pavlova-main (4)\Pavlova-main\PictureViewerПавловаМаша\obj\Debug\PictureViewerПавловаМаша.Properties.Resources.resources
+C:\Users\student\Downloads\Pavlova-main (4)\Pavlova-main\PictureViewerПавловаМаша\obj\Debug\PictureViewerПавловаМаша.csproj.GenerateResource.cache
+C:\Users\student\Downloads\Pavlova-main (4)\Pavlova-main\PictureViewerПавловаМаша\obj\Debug\PictureViewerПавловаМаша.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\Pavlova-main (4)\Pavlova-main\PictureViewerПавловаМаша\obj\Debug\PictureViewerПавловаМаша.exe
+C:\Users\student\Downloads\Pavlova-main (4)\Pavlova-main\PictureViewerПавловаМаша\obj\Debug\PictureViewerПавловаМаша.pdb

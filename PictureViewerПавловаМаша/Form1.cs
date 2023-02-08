@@ -65,7 +65,9 @@ namespace PictureViewerПавловаМаша
 
         }
 
-        private void открытьToolStripMenuItem_Click(object sender, EventArgs e)
+        
+
+        private void открытьToolStripMenuItem_Click_1(object sender, EventArgs e)
         {
             // Show the Open File dialog. If the user clicks OK, load the
             // picture that the user chose.
@@ -75,36 +77,29 @@ namespace PictureViewerПавловаМаша
             }
         }
 
-        private void растянутьToolStripMenuItem_Click(object sender, EventArgs e)
+        private void растянутьToolStripMenuItem_Click_1(object sender, EventArgs e)
         {
-           
-                pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
-            
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
         }
 
-        private void установитьЦветФонаToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            // Show the color dialog box. If the user clicks OK, change the
-            // PictureBox control's background to the color the user chose.
-            if (colorDialog1.ShowDialog() == DialogResult.OK)
-                pictureBox1.BackColor = colorDialog1.Color;
-        }
-
-        private void очиститьToolStripMenuItem1_Click(object sender, EventArgs e)
+        private void очиститьToolStripMenuItem_Click(object sender, EventArgs e)
         {
             // Clear the picture.
             pictureBox1.Image = null;
         }
 
-        private void закрытьToolStripMenuItem_Click(object sender, EventArgs e)
+        private void закрытьToolStripMenuItem_Click_1(object sender, EventArgs e)
         {
             // Close the form.
             this.Close();
         }
 
-        private void menuStrip2_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        private void установитьЦветФонаToolStripMenuItem_Click_1(object sender, EventArgs e)
         {
-
+            // Show the color dialog box. If the user clicks OK, change the
+            // PictureBox control's background to the color the user chose.
+            if (colorDialog1.ShowDialog() == DialogResult.OK)
+                pictureBox1.BackColor = colorDialog1.Color;
         }
     }
 }
