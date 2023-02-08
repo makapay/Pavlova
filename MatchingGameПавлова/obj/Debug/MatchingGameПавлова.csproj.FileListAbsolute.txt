@@ -9,3 +9,14 @@ C:\Users\student\Desktop\MatchingGameПавлова\obj\Debug\MatchingGameПав
 C:\Users\student\Desktop\MatchingGameПавлова\obj\Debug\MatchingGameПавлова.csproj.CoreCompileInputs.cache
 C:\Users\student\Desktop\MatchingGameПавлова\obj\Debug\MatchingGameПавлова.exe
 C:\Users\student\Desktop\MatchingGameПавлова\obj\Debug\MatchingGameПавлова.pdb
+C:\Users\User\Downloads\Pavlova-main\Pavlova-main\MatchingGameПавлова\bin\Debug\MatchingGameПавлова.exe.config
+C:\Users\User\Downloads\Pavlova-main\Pavlova-main\MatchingGameПавлова\bin\Debug\MatchingGameПавлова.exe
+C:\Users\User\Downloads\Pavlova-main\Pavlova-main\MatchingGameПавлова\bin\Debug\MatchingGameПавлова.pdb
+C:\Users\User\Downloads\Pavlova-main\Pavlova-main\MatchingGameПавлова\obj\Debug\MatchingGameПавлова.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Pavlova-main\Pavlova-main\MatchingGameПавлова\obj\Debug\MatchingGameПавлова.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\Pavlova-main\Pavlova-main\MatchingGameПавлова\obj\Debug\MatchingGameПавлова.Form1.resources
+C:\Users\User\Downloads\Pavlova-main\Pavlova-main\MatchingGameПавлова\obj\Debug\MatchingGameПавлова.Properties.Resources.resources
+C:\Users\User\Downloads\Pavlova-main\Pavlova-main\MatchingGameПавлова\obj\Debug\MatchingGameПавлова.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Pavlova-main\Pavlova-main\MatchingGameПавлова\obj\Debug\MatchingGameПавлова.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Pavlova-main\Pavlova-main\MatchingGameПавлова\obj\Debug\MatchingGameПавлова.exe
+C:\Users\User\Downloads\Pavlova-main\Pavlova-main\MatchingGameПавлова\obj\Debug\MatchingGameПавлова.pdb

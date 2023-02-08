@@ -107,18 +107,6 @@ namespace MatchingGameПавлова
                     return;
                 }
 
-
-
-                // If the player clicked two matching icons, keep them 
-                // black and reset firstClicked and secondClicked 
-                // so the player can click another icon
-                if (firstClicked.Text == secondClicked.Text)
-                {
-                    firstClicked = null;
-                    secondClicked = null;
-                    return;
-                }
-
                 // If the player gets this far, the player 
                 // clicked two different icons, so start the 
                 // timer (which will wait three quarters of 
@@ -168,6 +156,18 @@ namespace MatchingGameПавлова
             // That means the user won. Show a message and close the form
             MessageBox.Show("You matched all the icons!", "Congratulations");
             Close();
+        }
+
+        private void менюToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void новаяИграToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form Form1 = new Form1();
+            Form1.Show();
         }
     }
 }
