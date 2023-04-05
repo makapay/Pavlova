@@ -1,0 +1,8 @@
+C:\Users\student\source\repos\BMI_calc\obj\Debug\net6.0-windows\BMI_calcPavlova.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\BMI_calc\obj\Debug\net6.0-windows\BMI_calc.Form1.resources
+C:\Users\student\source\repos\BMI_calc\obj\Debug\net6.0-windows\BMI_calcPavlova.Properties.Resources.resources
+C:\Users\student\source\repos\BMI_calc\obj\Debug\net6.0-windows\BMI_calcPavlova.csproj.GenerateResource.cache
+C:\Users\student\source\repos\BMI_calc\obj\Debug\net6.0-windows\BMI_calcPavlova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\BMI_calc\obj\Debug\net6.0-windows\BMI_calcPavlova.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\BMI_calc\obj\Debug\net6.0-windows\BMI_calcPavlova.AssemblyInfo.cs
+C:\Users\student\source\repos\BMI_calc\obj\Debug\net6.0-windows\BMI_calcPavlova.csproj.CoreCompileInputs.cache
